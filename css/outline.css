@@ -1,0 +1,12 @@
+p{
+    outline: green;
+    outline-style: solid;
+    text-align: center;
+}
+
+p.a1{outline-style: dotted; outline-color: red; outline-width: 1px; width: 100px; color: red;}
+p.a2{outline-style: dashed; outline-color: blue; outline-width: 2px; width: 120px; color: blue;}
+p.a3{outline-style: solid; outline-color: yellow; outline-width: 3px; width: 140px; color: yellow;}
+p.a4{outline-style: double; outline-color: black; outline-width: 4px; width: 160px; color: black}
+p.a5{outline-style: groove; outline-color: tomato; outline-width: 5px; width: 180px; color: tomato;}
+p.a6{outline-style: outset; width:150px; color: green;}
