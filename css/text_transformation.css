@@ -2,12 +2,14 @@ p.uppercase{
     text-transform: uppercase;
     color: tomato;
     text-align: center;
+    text-shadow: 2px 2px grey;
 }
 
 p.lowercase{
     text-transform: lowercase;
     color: thistle;
     background-color: grey;
+    text-shadow: 2px 2px;
 }
 
 p.capitalize{
