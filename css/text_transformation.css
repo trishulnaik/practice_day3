@@ -1,0 +1,20 @@
+p.uppercase{
+    text-transform: uppercase;
+    color: tomato;
+    text-align: center;
+}
+
+p.lowercase{
+    text-transform: lowercase;
+    color: thistle;
+    background-color: grey;
+}
+
+p.capitalize{
+    text-transform: capitalize;
+    color: teal;
+    outline-color: green;
+    outline-style: dotted;
+    outline-width: 10px;
+    width: 200px;
+}
