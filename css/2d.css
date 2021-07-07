@@ -1,0 +1,35 @@
+div{
+    width: 200px;
+    background-color: yellow;
+    border: 1px solid black;
+    -ms-transform: translate(50px,100px);
+    transform: translate(50px,100px);
+}
+div#myDiv{
+    -ms-transform: rotate(20deg);
+    transform: rotate(20deg);
+
+}
+div#myDiv2{
+    -ms-transform: rotate(-20deg);
+    transform: rotate(-20deg);
+}
+
+div#myDivscale{
+    transform: scale(0.5,0.5);
+}
+
+div#myDivxy{
+    transform: scaleX(2);
+    transform: scaleY(0.5);
+}
+
+div#myDivScewx{
+    -ms-transform: skewX(20deg);
+    transform: skewX(20deg);
+}
+
+div#myDivScewy{
+    -ms-transform: skewY(20deg);
+    transform: skewY(20deg);
+}
